@@ -1,0 +1,1 @@
+A simple Employee Management System application using Spring Boot and Reactjs
